@@ -297,9 +297,7 @@ header {
   font-weight: 400;
   line-height: 28px;
 }
-input[submit] {
-  display: inline;
-}
+
 .contact-form > input {
   margin-top: 25px;
 }
