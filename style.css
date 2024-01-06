@@ -161,7 +161,7 @@ header {
 .skills {
   display: flex;
   justify-content: space-between;
-  align-items: center;
+  gap: 25px;
 }
 .skill {
   padding: 30px;
