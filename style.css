@@ -295,7 +295,7 @@ header {
   color: #757575;
   font-size: 16px;
   font-weight: 400;
-  line-height: 28px; /* 175% */
+  line-height: 28px;
 }
 input[submit] {
   display: inline;
